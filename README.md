@@ -1,2 +1,2 @@
-H: commu
+H: commu \n
 W: ash
