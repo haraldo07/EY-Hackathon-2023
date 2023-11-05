@@ -1,5 +1,5 @@
 ## General Instructions <br />
-#### - First read the [**Rules**](#rules-to-be-followed) before doing anything to this repo.
+#### - First read the [Rules](#rules-to-be-followed) before doing anything to this repo.
 - To type in bold, enclose the text within 2 asterisks. _Syntax :_    \*\*{text}\*\*
 - Check ***Main Master***[<--](https://github.com/haraldo07/EY-Hackathon-2023/tree/ed86dead3e79cc8f70fdd8f1acaf282b890c9197/Kaavya) Folder for any doubts
 - To type in italics, enclose the text within underscore. _Syntax :_    \_{text}\_
