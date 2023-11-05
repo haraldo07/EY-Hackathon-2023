@@ -3,6 +3,7 @@
 - To type in italics, enclose the text within underscore. _Syntax :_    \_{text}\_
 - To type the text in a new line, type <br \\>
 - To type in a list, type a hyphen followed by a space. _Syntax :_    \- {text}
+- Create a folder with Singam character name and create a README.me file inside the folder for help.
 
 ## Rules to be followed
 - **Enter the question in Bold.**
