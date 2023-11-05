@@ -6,7 +6,7 @@
 - Create a folder with Singam character name and create a README.me file inside the folder for help.
 
 ## Rules to be followed
-- **Enter the question in Bold.**
+- **Enter the question in either Bold or _Italics_.**
 - ***Enter your own text message in default font.***
 - _Help would be addressed by an expert ***( You yourself can also be that expert )*** and the answer would be uploaded in a random named .js file._
 
