@@ -8,7 +8,8 @@
 ## Rules to be followed
 - **Enter the question in either Bold or _Italics_.**
 - ***Enter your own text message in default font.***
-- _Help would be addressed by an expert ***( You yourself can also be that expert )*** and the answer would be uploaded in a random named .js file._
+- _Help would be addressed by an expert ***( You(Bhavehs) yourself can also be that expert(Bhavehs) )*** and the answer would be uploaded in a random named .js file._
+- 228/- EXPERT
 
 ## High Level Of Co-ordination is expected from the experts.
 ##### Thank you for your support!!
