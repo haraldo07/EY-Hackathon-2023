@@ -10,7 +10,8 @@
 ## Rules to be followed
 - **Enter the question in either Bold or _Italics_. The template is already given in their respective folder's .md file.**
 - ***Enter your own text message in default font.***
-- _Help would be addressed by an expert ***( You yourself can also be that expert )*** and the answer would be uploaded in a random named .js file._
+- _Help would be addressed by an expert ***( You yourself can also be that expert )*** and the answer would be uploaded in a random named .js file.
+- If the help is addressed through the README.md file, you can delete that text after the problem is rectified.
 
 ## High Level Of Co-ordination is expected from the experts.
 ##### Thank you for your support!!
