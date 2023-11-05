@@ -12,6 +12,7 @@
 - ***Enter your own text message in default font.***
 - _Help would be addressed by an expert ***( You yourself can also be that expert )*** and the answer would be uploaded in a random named .js file.
 - If the help is addressed through the README.md file, you can delete that text after the problem is rectified.
+- **Now read the [General Instructions](general-instructions) to start using this repo.**
 
 ## High Level Of Co-ordination is expected from the experts.
 ##### Thank you for your support!!
