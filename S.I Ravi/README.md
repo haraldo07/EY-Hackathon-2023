@@ -1,4 +1,4 @@
-#### Check src of [Master](../Kaavya) for lab and class exercises.
+#### Check src of [Master](../Kaavya/src) for lab and class exercises.
 
 ## Question :
 
